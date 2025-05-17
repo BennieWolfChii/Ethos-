@@ -54,6 +54,9 @@ Para executar este chatbot localmente, siga os passos abaixo:
     ```
     *(Crie um arquivo `requirements.txt` se o projeto depender de bibliotecas externas).*
 
+    Obrigado a todos que vieram ver meu trabalho! Eu tive dificuldades em criar esse repertório e esse código, mas é errando que se aprende!!
+    Espero que ajude vocês!
+
 ## Uso
 
 Para iniciar o chatbot, execute o script principal no seu terminal após seguir os passos de instalação:
